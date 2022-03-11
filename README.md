@@ -6,6 +6,12 @@ Mini Project Crud operation  using Csharp and Sql Server
 >SQL CLIENT (C# Configuration)<br>
 >Server Connections
 
+# FrontForm
+![](t1.png)
+
+# Registration Form
+![](t2.png)
+
 # Contact With me
 If There Error Contact With Me<br>
 Agent Email : abdulrahmandev10@gmail.com<br>
