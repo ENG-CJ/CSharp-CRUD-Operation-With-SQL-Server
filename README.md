@@ -10,7 +10,7 @@ Mini Project Crud operation  using Csharp and Sql Server
 ![](t1.PNG)
 
 # Registration Form
-![](t2.png)
+![](t2.PNG)
 
 # Contact With me
 If There Error Contact With Me<br>
