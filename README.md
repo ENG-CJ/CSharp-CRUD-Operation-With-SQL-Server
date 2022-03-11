@@ -7,7 +7,7 @@ Mini Project Crud operation  using Csharp and Sql Server
 >Server Connections
 
 # FrontForm
-![](t1.png)
+![](t1.PNG)
 
 # Registration Form
 ![](t2.png)
