@@ -2,11 +2,11 @@
 Mini Project Crud operation  using Csharp and Sql Server 
 
 # Dependencies
->SQL SERVER SSMS
->SQL CLIENT (C# Configuration)
+>SQL SERVER SSMS<br>
+>SQL CLIENT (C# Configuration)<br>
 >Server Connections
 
 # Contact With me
-If There Error Contact With Me
-Agent Email : abdulrahmandev10@gmail.com
+If There Error Contact With Me<br>
+Agent Email : abdulrahmandev10@gmail.com<br>
 agent Number: 0683533247
