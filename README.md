@@ -5,7 +5,8 @@ Mini Project Crud operation  using Csharp and Sql Server
 >SQL SERVER SSMS<br>
 >SQL CLIENT (C# Configuration)<br>
 >Server Connections
-
+# Changes
+Commits Will Change
 # Tip
 Locate Connection File And Chnage The Server Connection
 To Change Thre Connection Go To The SQL Server Managament
